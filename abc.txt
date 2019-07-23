@@ -1,1 +1,2 @@
 this is my first git practicle
+this is actually my first git practicle on my mac
