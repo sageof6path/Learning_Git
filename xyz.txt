@@ -1,5 +1,0 @@
-the second text file for git practicle
-started adding new feature
-
-
-done with building feature
