@@ -2,6 +2,3 @@
 2)git clone url
 3)git status
 4)git diff --staged
-5)git commit -m
-6)git status --short 
-7)git add fileName
